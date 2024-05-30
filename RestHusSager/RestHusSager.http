@@ -1,0 +1,6 @@
+@RestHusSager_HostAddress = http://localhost:5187
+
+GET {{RestHusSager_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
